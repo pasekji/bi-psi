@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\jirip\Desktop\site\site\main.cpp(170,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jirip\Desktop\site\site\main.cpp(381): warning C4715: 'clientThread': not all control paths return a value
+  site.vcxproj -> C:\Users\jirip\Desktop\site\Debug\site.exe
